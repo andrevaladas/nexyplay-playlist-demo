@@ -273,3 +273,121 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?119
 #EXTINF:-1 tvg-id="tmdbtv-549-S05E04" tvg-name="Law & Order S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg" group-title="VOD - TV SHOWS",Law & Order S05E04
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?120
+
+
+############################################################
+# VOD - KIDS (demo)
+############################################################
+
+#EXTINF:-1 tvg-id="456" tvg-name="The Simpsons S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="VOD - KIDS",The Simpsons S01E01
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=121
+#EXTINF:-1 tvg-id="456" tvg-name="The Simpsons S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="VOD - KIDS",The Simpsons S01E02
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1212
+#EXTINF:-1 tvg-id="456" tvg-name="The Simpsons S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="VOD - KIDS",The Simpsons S01E03
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1213
+#EXTINF:-1 tvg-id="456" tvg-name="The Simpsons S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="VOD - KIDS",The Simpsons S01E04
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1214
+
+#EXTINF:-1 tvg-id="277834" tvg-name="Moana" tvg-logo="https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg" group-title="VOD - KIDS",Moana
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=122
+#EXTINF:-1 tvg-id="335797" tvg-name="Sing" tvg-logo="https://image.tmdb.org/t/p/w500/xviEKU073QAzeFRzWDdW9xDHPbB.jpg" group-title="VOD - KIDS",Sing
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=123
+#EXTINF:-1 tvg-id="136799" tvg-name="Trolls" tvg-logo="https://image.tmdb.org/t/p/w500/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg" group-title="VOD - KIDS",Trolls
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=124
+#EXTINF:-1 tvg-id="1241982" tvg-name="Moana 2" tvg-logo="https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="VOD - KIDS",Moana 2
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=125
+#EXTINF:-1 tvg-id="260514" tvg-name="Cars 3" tvg-logo="https://image.tmdb.org/t/p/w500/fyy1nDC8wm553FCiBDojkJmKLCs.jpg" group-title="VOD - KIDS",Cars 3
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=126
+#EXTINF:-1 tvg-id="49013" tvg-name="Cars 2" tvg-logo="https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg" group-title="VOD - KIDS",Cars 2
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=127
+#EXTINF:-1 tvg-id="127380" tvg-name="Finding Dory" tvg-logo="https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg" group-title="VOD - KIDS",Finding Dory
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=128
+#EXTINF:-1 tvg-id="354912" tvg-name="Coco" tvg-logo="https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg" group-title="VOD - KIDS",Coco
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=129
+#EXTINF:-1 tvg-id="137106" tvg-name="The Lego Movie" tvg-logo="https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg" group-title="VOD - KIDS",The Lego Movie
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=130
+#EXTINF:-1 tvg-id="109445" tvg-name="Frozen" tvg-logo="https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg" group-title="VOD - KIDS",Frozen
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=131
+#EXTINF:-1 tvg-id="330457" tvg-name="Frozen II" tvg-logo="https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="VOD - KIDS",Frozen II
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=132
+#EXTINF:-1 tvg-id="326359" tvg-name="Frozen Fever" tvg-logo="https://image.tmdb.org/t/p/w500/dJ9sxSn95KoWwErBrEILD3Lucg6.jpg" group-title="VOD - KIDS",Frozen Fever
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=133
+#EXTINF:-1 tvg-id="150540" tvg-name="Inside Out" tvg-logo="https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg" group-title="VOD - KIDS",Inside Out
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=134
+#EXTINF:-1 tvg-id="438695" tvg-name="Sing 2" tvg-logo="https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="VOD - KIDS",Sing 2
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=135
+#EXTINF:-1 tvg-id="568124" tvg-name="Encanto" tvg-logo="https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="VOD - KIDS",Encanto
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=136
+#EXTINF:-1 tvg-id="862" tvg-name="Toy Story" tvg-logo="https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="VOD - KIDS",Toy Story
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=137
+#EXTINF:-1 tvg-id="863" tvg-name="Toy Story 2" tvg-logo="https://image.tmdb.org/t/p/w500/hxLVh4inApNMzy3KHWelzkycivj.jpg" group-title="VOD - KIDS",Toy Story 2
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=138
+#EXTINF:-1 tvg-id="10193" tvg-name="Toy Story 3" tvg-logo="https://image.tmdb.org/t/p/w500/wG7nvy56wiY85ZqjEEuMU7rYRVP.jpg" group-title="VOD - KIDS",Toy Story 3
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=139
+#EXTINF:-1 tvg-id="8587" tvg-name="The Lion King" tvg-logo="https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg" group-title="VOD - KIDS",The Lion King
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=140
+
+#EXTINF:-1 tvg-id="12225" tvg-name="Peppa Pig S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg" group-title="VOD - KIDS",Peppa Pig S01E01
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=141
+#EXTINF:-1 tvg-id="12225" tvg-name="Peppa Pig S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg" group-title="VOD - KIDS",Peppa Pig S01E02
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1412
+#EXTINF:-1 tvg-id="12225" tvg-name="Peppa Pig S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg" group-title="VOD - KIDS",Peppa Pig S01E03
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1413
+#EXTINF:-1 tvg-id="12225" tvg-name="Peppa Pig S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg" group-title="VOD - KIDS",Peppa Pig S01E04
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1414
+
+#EXTINF:-1 tvg-id="2437" tvg-name="Pocoyo S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="VOD - KIDS",Pocoyo S01E01
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=142
+#EXTINF:-1 tvg-id="2437" tvg-name="Pocoyo S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="VOD - KIDS",Pocoyo S01E02
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1422
+#EXTINF:-1 tvg-id="2437" tvg-name="Pocoyo S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="VOD - KIDS",Pocoyo S01E03
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1423
+#EXTINF:-1 tvg-id="2437" tvg-name="Pocoyo S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="VOD - KIDS",Pocoyo S01E04
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1424
+
+#EXTINF:-1 tvg-id="3934" tvg-name="Mickey Mouse Clubhouse S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg" group-title="VOD - KIDS",Mickey Mouse Clubhouse S01E01
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=143
+#EXTINF:-1 tvg-id="3934" tvg-name="Mickey Mouse Clubhouse S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg" group-title="VOD - KIDS",Mickey Mouse Clubhouse S01E02
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1432
+#EXTINF:-1 tvg-id="3934" tvg-name="Mickey Mouse Clubhouse S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg" group-title="VOD - KIDS",Mickey Mouse Clubhouse S01E03
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1433
+#EXTINF:-1 tvg-id="3934" tvg-name="Mickey Mouse Clubhouse S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg" group-title="VOD - KIDS",Mickey Mouse Clubhouse S01E04
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1434
+
+#EXTINF:-1 tvg-id="65417" tvg-name="PJ Masks S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg" group-title="VOD - KIDS",PJ Masks S01E01
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=144
+#EXTINF:-1 tvg-id="65417" tvg-name="PJ Masks S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg" group-title="VOD - KIDS",PJ Masks S01E02
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1442
+#EXTINF:-1 tvg-id="65417" tvg-name="PJ Masks S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg" group-title="VOD - KIDS",PJ Masks S01E03
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1443
+#EXTINF:-1 tvg-id="65417" tvg-name="PJ Masks S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg" group-title="VOD - KIDS",PJ Masks S01E04
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1444
+
+#EXTINF:-1 tvg-id="57532" tvg-name="PAW Patrol S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="VOD - KIDS",PAW Patrol S01E01
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=145
+#EXTINF:-1 tvg-id="57532" tvg-name="PAW Patrol S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="VOD - KIDS",PAW Patrol S01E02
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1452
+#EXTINF:-1 tvg-id="57532" tvg-name="PAW Patrol S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="VOD - KIDS",PAW Patrol S01E03
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1453
+#EXTINF:-1 tvg-id="57532" tvg-name="PAW Patrol S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="VOD - KIDS",PAW Patrol S01E04
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1454
+
+#EXTINF:-1 tvg-id="127635" tvg-name="Spidey and His Amazing Friends S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg" group-title="VOD - KIDS",Spidey and His Amazing Friends S01E01
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=146
+#EXTINF:-1 tvg-id="127635" tvg-name="Spidey and His Amazing Friends S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg" group-title="VOD - KIDS",Spidey and His Amazing Friends S01E02
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1462
+#EXTINF:-1 tvg-id="127635" tvg-name="Spidey and His Amazing Friends S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg" group-title="VOD - KIDS",Spidey and His Amazing Friends S01E03
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1463
+#EXTINF:-1 tvg-id="127635" tvg-name="Spidey and His Amazing Friends S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg" group-title="VOD - KIDS",Spidey and His Amazing Friends S01E04
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1464
+
+#EXTINF:-1 tvg-id="118" tvg-name="Charlie and the Chocolate Factory" tvg-logo="https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg" group-title="VOD - KIDS",Charlie and the Chocolate Factory
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=147
+#EXTINF:-1 tvg-id="1280282" tvg-name="Gabby's Dollhouse: The Movie" tvg-logo="https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg" group-title="VOD - KIDS",Gabby's Dollhouse: The Movie
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=148
+#EXTINF:-1 tvg-id="1087192" tvg-name="How to Train Your Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg" group-title="VOD - KIDS",How to Train Your Dragon
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=149
+#EXTINF:-1 tvg-id="803796" tvg-name="KPop Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg" group-title="VOD - KIDS",KPop Demon Hunters
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=150
+#EXTINF:-1 tvg-id="1022787" tvg-name="Elio" tvg-logo="https://image.tmdb.org/t/p/w500/7z8jDiTZZco9moIKpTUImFtTy7o.jpg" group-title="VOD - KIDS",Elio
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=151

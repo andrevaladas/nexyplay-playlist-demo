@@ -1,0 +1,15 @@
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.VSCodeCounter
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+# --- Project stuff ---
+README.md
+samples/
