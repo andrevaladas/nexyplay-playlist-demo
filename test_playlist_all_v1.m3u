@@ -5,270 +5,275 @@
 ############################################################
 
 #EXTINF:-1 tvg-id="tmdb-278" tvg-name="The Shawshank Redemption" tvg-logo="https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg" group-title="DEMO - VOD - TOP RATED",The Shawshank Redemption
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?1
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?1
 #EXTINF:-1 tvg-id="tmdb-238" tvg-name="The Godfather" tvg-logo="https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg" group-title="DEMO - VOD - TOP RATED",The Godfather
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?2
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?2
 #EXTINF:-1 tvg-id="tmdb-240" tvg-name="The Godfather Part II" tvg-logo="https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg" group-title="DEMO - VOD - TOP RATED",The Godfather Part II
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?3
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?3
 #EXTINF:-1 tvg-id="tmdb-424" tvg-name="Schindler's List" tvg-logo="https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg" group-title="DEMO - VOD - TOP RATED",Schindler's List
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?4
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?4
 #EXTINF:-1 tvg-id="tmdb-389" tvg-name="12 Angry Men" tvg-logo="https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg" group-title="DEMO - VOD - TOP RATED",12 Angry Men
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?5
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?5
 #EXTINF:-1 tvg-id="tmdb-129" tvg-name="Spirited Away" tvg-logo="https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg" group-title="DEMO - VOD - TOP RATED",Spirited Away
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?6
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?6
 #EXTINF:-1 tvg-id="tmdb-155" tvg-name="The Dark Knight" tvg-logo="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="DEMO - VOD - TOP RATED",The Dark Knight
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?7
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?7
 #EXTINF:-1 tvg-id="tmdb-19404" tvg-name="Dilwale Dulhania Le Jayenge" tvg-logo="https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg" group-title="DEMO - VOD - TOP RATED",Dilwale Dulhania Le Jayenge
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?8
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?8
 #EXTINF:-1 tvg-id="tmdb-497" tvg-name="The Green Mile" tvg-logo="https://image.tmdb.org/t/p/w500/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg" group-title="DEMO - VOD - TOP RATED",The Green Mile
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?9
+https://test-streams.mux.dev/test_001/stream.m3u8?9
 #EXTINF:-1 tvg-id="tmdb-496243" tvg-name="Parasite" tvg-logo="https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg" group-title="DEMO - VOD - TOP RATED",Parasite
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?10
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?10
 #EXTINF:-1 tvg-id="tmdb-122" tvg-name="The Lord of the Rings: The Return of the King" tvg-logo="https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg" group-title="DEMO - VOD - TOP RATED",The Lord of the Rings: The Return of the King
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?11
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?11
 #EXTINF:-1 tvg-id="tmdb-680" tvg-name="Pulp Fiction" tvg-logo="https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg" group-title="DEMO - VOD - TOP RATED",Pulp Fiction
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?12
+https://test-streams.mux.dev/pts_shift/master.m3u8?12
 #EXTINF:-1 tvg-id="tmdb-429" tvg-name="The Good, the Bad and the Ugly" tvg-logo="https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg" group-title="DEMO - VOD - TOP RATED",The Good, the Bad and the Ugly
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?14
+https://test-streams.mux.dev/tos_ismc/main.m3u8?14
 #EXTINF:-1 tvg-id="tmdb-157336" tvg-name="Interstellar" tvg-logo="https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="DEMO - VOD - TOP RATED",Interstellar
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?15
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?15
 #EXTINF:-1 tvg-id="tmdb-13" tvg-name="Forrest Gump" tvg-logo="https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg" group-title="DEMO - VOD - TOP RATED",Forrest Gump
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?16
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?16
 #EXTINF:-1 tvg-id="tmdb-769" tvg-name="GoodFellas" tvg-logo="https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg" group-title="DEMO - VOD - TOP RATED",GoodFellas
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?17
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?17
 #EXTINF:-1 tvg-id="tmdb-346" tvg-name="Seven Samurai" tvg-logo="https://image.tmdb.org/t/p/w500/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg" group-title="DEMO - VOD - TOP RATED",Seven Samurai
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?18
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?18
 #EXTINF:-1 tvg-id="tmdb-12477" tvg-name="Grave of the Fireflies" tvg-logo="https://image.tmdb.org/t/p/w500/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg" group-title="DEMO - VOD - TOP RATED",Grave of the Fireflies
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?19
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?19
 #EXTINF:-1 tvg-id="tmdb-637" tvg-name="Life Is Beautiful" tvg-logo="https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg" group-title="DEMO - VOD - TOP RATED",Life Is Beautiful
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?20
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?20
+
+
 
 ############################################################
 # VOD - MOVIES (demo)
 ############################################################
 
 #EXTINF:-1 tvg-id="tmdb-798645" tvg-name="The Running Man" tvg-logo="https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="DEMO - VOD - MOVIES",The Running Man
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?21
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?21
 #EXTINF:-1 tvg-id="tmdb-1084242" tvg-name="Zootopia 2" tvg-logo="https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg" group-title="DEMO - VOD - MOVIES",Zootopia 2
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?22
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?22
 #EXTINF:-1 tvg-id="tmdb-812583" tvg-name="Wake Up Dead Man: A Knives Out Mystery" tvg-logo="https://image.tmdb.org/t/p/w500/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg" group-title="DEMO - VOD - MOVIES",Wake Up Dead Man: A Knives Out Mystery
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?23
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?23
 #EXTINF:-1 tvg-id="tmdb-1387382" tvg-name="Hunting Season" tvg-logo="https://image.tmdb.org/t/p/w500/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="DEMO - VOD - MOVIES",Hunting Season
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?24
+https://test-streams.mux.dev/test_001/stream.m3u8?24
 #EXTINF:-1 tvg-id="tmdb-1223601" tvg-name="Sisu: Road to Revenge" tvg-logo="https://image.tmdb.org/t/p/w500/jNsttCWZyPtW66MjhUozBzVsRb7.jpg" group-title="DEMO - VOD - MOVIES",Sisu: Road to Revenge
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?25
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?25
 #EXTINF:-1 tvg-id="tmdb-1217602" tvg-name="London Calling" tvg-logo="https://image.tmdb.org/t/p/w500/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg" group-title="DEMO - VOD - MOVIES",London Calling
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?26
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?26
 #EXTINF:-1 tvg-id="tmdb-1149167" tvg-name="High Rollers" tvg-logo="https://image.tmdb.org/t/p/w500/hHowAaChDjwueySmwVbsjHmpWa.jpg" group-title="DEMO - VOD - MOVIES",High Rollers
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?27
+https://test-streams.mux.dev/pts_shift/master.m3u8?27
 #EXTINF:-1 tvg-id="tmdb-533533" tvg-name="TRON: Ares" tvg-logo="https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="DEMO - VOD - MOVIES",TRON: Ares
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?28
+https://test-streams.mux.dev/tos_ismc/main.m3u8?28
 #EXTINF:-1 tvg-id="tmdb-1228246" tvg-name="Five Nights at Freddy's 2" tvg-logo="https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="DEMO - VOD - MOVIES",Five Nights at Freddy's 2
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?29
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?29
 #EXTINF:-1 tvg-id="tmdb-1218925" tvg-name="Chainsaw Man - The Movie: Reze Arc" tvg-logo="https://image.tmdb.org/t/p/w500/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg" group-title="DEMO - VOD - MOVIES",Chainsaw Man - The Movie: Reze Arc
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?30
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?30
 #EXTINF:-1 tvg-id="tmdb-1180831" tvg-name="Troll 2" tvg-logo="https://image.tmdb.org/t/p/w500/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="DEMO - VOD - MOVIES",Troll 2
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?31
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?31
 #EXTINF:-1 tvg-id="tmdb-83533" tvg-name="Avatar: Fire and Ash" tvg-logo="https://image.tmdb.org/t/p/w500/gDVgC9jd917NdAcqBdRRDUYi4TqM.jpg" group-title="DEMO - VOD - MOVIES",Avatar: Fire and Ash
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?32
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?32
 #EXTINF:-1 tvg-id="tmdb-1083637" tvg-name="Kantara - A Legend: Chapter 1" tvg-logo="https://image.tmdb.org/t/p/w500/zBvw25afDn93embB8L7FzvTT2xq.jpg" group-title="DEMO - VOD - MOVIES",Kantara - A Legend: Chapter 1
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?33
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?33
 #EXTINF:-1 tvg-id="tmdb-755898" tvg-name="War of the Worlds" tvg-logo="https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg" group-title="DEMO - VOD - MOVIES",War of the Worlds
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?34
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?34
 #EXTINF:-1 tvg-id="tmdb-1242898" tvg-name="Predator: Badlands" tvg-logo="https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg" group-title="DEMO - VOD - MOVIES",Predator: Badlands
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?35
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?35
 #EXTINF:-1 tvg-id="tmdb-1379963" tvg-name="Tell Me Softly" tvg-logo="https://image.tmdb.org/t/p/w500/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg" group-title="DEMO - VOD - MOVIES",Tell Me Softly
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?36
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?36
 #EXTINF:-1 tvg-id="tmdb-980477" tvg-name="Ne Zha 2" tvg-logo="https://image.tmdb.org/t/p/w500/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg" group-title="DEMO - VOD - MOVIES",Ne Zha 2
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?37
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?37
 #EXTINF:-1 tvg-id="tmdb-1196067" tvg-name="Worldbreaker" tvg-logo="https://image.tmdb.org/t/p/w500/7K8w6mdrJp0oaSoKWGyjSZ4Zv2z.jpg" group-title="DEMO - VOD - MOVIES",Worldbreaker
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?38
+https://test-streams.mux.dev/test_001/stream.m3u8?38
 #EXTINF:-1 tvg-id="tmdb-1419406" tvg-name="The Shadow's Edge" tvg-logo="https://image.tmdb.org/t/p/w500/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg" group-title="DEMO - VOD - MOVIES",The Shadow's Edge
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?39
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?39
+
+
 
 ############################################################
 # VOD - TV SHOWS (expanded into episodes)
 ############################################################
 
 #EXTINF:-1 tvg-id="tmdbtv-200875-S01E01" tvg-name="IT: Welcome to Derry S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg" group-title="DEMO - VOD - TV SHOWS",IT: Welcome to Derry S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?41
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?41
 #EXTINF:-1 tvg-id="tmdbtv-200875-S01E02" tvg-name="IT: Welcome to Derry S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg" group-title="DEMO - VOD - TV SHOWS",IT: Welcome to Derry S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?42
+https://test-streams.mux.dev/pts_shift/master.m3u8?42
 #EXTINF:-1 tvg-id="tmdbtv-200875-S01E03" tvg-name="IT: Welcome to Derry S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg" group-title="DEMO - VOD - TV SHOWS",IT: Welcome to Derry S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?43
+https://test-streams.mux.dev/tos_ismc/main.m3u8?43
 #EXTINF:-1 tvg-id="tmdbtv-200875-S05E04" tvg-name="IT: Welcome to Derry S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg" group-title="DEMO - VOD - TV SHOWS",IT: Welcome to Derry S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?44
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?44
 
 #EXTINF:-1 tvg-id="tmdbtv-66732-S01E01" tvg-name="Stranger Things S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg" group-title="DEMO - VOD - TV SHOWS",Stranger Things S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?45
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?45
 #EXTINF:-1 tvg-id="tmdbtv-66732-S01E02" tvg-name="Stranger Things S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg" group-title="DEMO - VOD - TV SHOWS",Stranger Things S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?46
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?46
 #EXTINF:-1 tvg-id="tmdbtv-66732-S01E03" tvg-name="Stranger Things S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg" group-title="DEMO - VOD - TV SHOWS",Stranger Things S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?47
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?47
 #EXTINF:-1 tvg-id="tmdbtv-66732-S05E04" tvg-name="Stranger Things S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg" group-title="DEMO - VOD - TV SHOWS",Stranger Things S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?48
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?48
 
 #EXTINF:-1 tvg-id="tmdbtv-240459-S01E01" tvg-name="Spartacus: House of Ashur S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg" group-title="DEMO - VOD - TV SHOWS",Spartacus: House of Ashur S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?49
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?49
 #EXTINF:-1 tvg-id="tmdbtv-240459-S01E02" tvg-name="Spartacus: House of Ashur S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg" group-title="DEMO - VOD - TV SHOWS",Spartacus: House of Ashur S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?50
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?50
 #EXTINF:-1 tvg-id="tmdbtv-240459-S01E03" tvg-name="Spartacus: House of Ashur S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg" group-title="DEMO - VOD - TV SHOWS",Spartacus: House of Ashur S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?51
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?51
 #EXTINF:-1 tvg-id="tmdbtv-240459-S05E04" tvg-name="Spartacus: House of Ashur S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg" group-title="DEMO - VOD - TV SHOWS",Spartacus: House of Ashur S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?52
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?52
 
 #EXTINF:-1 tvg-id="tmdbtv-279601-S01E01" tvg-name="Man vs Baby S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg" group-title="DEMO - VOD - TV SHOWS",Man vs Baby S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?53
+https://test-streams.mux.dev/test_001/stream.m3u8?53
 #EXTINF:-1 tvg-id="tmdbtv-279601-S01E02" tvg-name="Man vs Baby S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg" group-title="DEMO - VOD - TV SHOWS",Man vs Baby S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?54
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?54
 #EXTINF:-1 tvg-id="tmdbtv-279601-S01E03" tvg-name="Man vs Baby S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg" group-title="DEMO - VOD - TV SHOWS",Man vs Baby S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?55
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?55
 #EXTINF:-1 tvg-id="tmdbtv-279601-S05E04" tvg-name="Man vs Baby S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg" group-title="DEMO - VOD - TV SHOWS",Man vs Baby S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?56
+https://test-streams.mux.dev/pts_shift/master.m3u8?56
 
 #EXTINF:-1 tvg-id="tmdbtv-1416-S01E01" tvg-name="Grey's Anatomy S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg" group-title="DEMO - VOD - TV SHOWS",Grey's Anatomy S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?57
+https://test-streams.mux.dev/tos_ismc/main.m3u8?57
 #EXTINF:-1 tvg-id="tmdbtv-1416-S01E02" tvg-name="Grey's Anatomy S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg" group-title="DEMO - VOD - TV SHOWS",Grey's Anatomy S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?58
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?58
 #EXTINF:-1 tvg-id="tmdbtv-1416-S01E03" tvg-name="Grey's Anatomy S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg" group-title="DEMO - VOD - TV SHOWS",Grey's Anatomy S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?59
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?59
 #EXTINF:-1 tvg-id="tmdbtv-1416-S05E04" tvg-name="Grey's Anatomy S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg" group-title="DEMO - VOD - TV SHOWS",Grey's Anatomy S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?60
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?60
 
 #EXTINF:-1 tvg-id="tmdbtv-1622-S01E01" tvg-name="Supernatural S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/u40gJarLPlIkwouKlzGdobQOV9k.jpg" group-title="DEMO - VOD - TV SHOWS",Supernatural S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?61
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?61
 #EXTINF:-1 tvg-id="tmdbtv-1622-S01E02" tvg-name="Supernatural S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/u40gJarLPlIkwouKlzGdobQOV9k.jpg" group-title="DEMO - VOD - TV SHOWS",Supernatural S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?62
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?62
 #EXTINF:-1 tvg-id="tmdbtv-1622-S01E03" tvg-name="Supernatural S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/u40gJarLPlIkwouKlzGdobQOV9k.jpg" group-title="DEMO - VOD - TV SHOWS",Supernatural S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?63
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?63
 #EXTINF:-1 tvg-id="tmdbtv-1622-S05E04" tvg-name="Supernatural S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/u40gJarLPlIkwouKlzGdobQOV9k.jpg" group-title="DEMO - VOD - TV SHOWS",Supernatural S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?64
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?64
 
 #EXTINF:-1 tvg-id="tmdbtv-456-S01E01" tvg-name="The Simpsons S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="DEMO - VOD - TV SHOWS",The Simpsons S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?65
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?65
 #EXTINF:-1 tvg-id="tmdbtv-456-S01E02" tvg-name="The Simpsons S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="DEMO - VOD - TV SHOWS",The Simpsons S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?66
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?66
 #EXTINF:-1 tvg-id="tmdbtv-456-S01E03" tvg-name="The Simpsons S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="DEMO - VOD - TV SHOWS",The Simpsons S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?67
+https://test-streams.mux.dev/test_001/stream.m3u8?67
 #EXTINF:-1 tvg-id="tmdbtv-456-S05E04" tvg-name="The Simpsons S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="DEMO - VOD - TV SHOWS",The Simpsons S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?68
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?68
 
 #EXTINF:-1 tvg-id="tmdbtv-2734-S01E01" tvg-name="Law & Order: Special Victims Unit S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg" group-title="DEMO - VOD - TV SHOWS",Law & Order: Special Victims Unit S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?69
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?69
 #EXTINF:-1 tvg-id="tmdbtv-2734-S01E02" tvg-name="Law & Order: Special Victims Unit S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg" group-title="DEMO - VOD - TV SHOWS",Law & Order: Special Victims Unit S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?70
+https://test-streams.mux.dev/pts_shift/master.m3u8?70
 #EXTINF:-1 tvg-id="tmdbtv-2734-S01E03" tvg-name="Law & Order: Special Victims Unit S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg" group-title="DEMO - VOD - TV SHOWS",Law & Order: Special Victims Unit S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?71
+https://test-streams.mux.dev/tos_ismc/main.m3u8?71
 #EXTINF:-1 tvg-id="tmdbtv-2734-S05E04" tvg-name="Law & Order: Special Victims Unit S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg" group-title="DEMO - VOD - TV SHOWS",Law & Order: Special Victims Unit S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?72
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?72
 
 #EXTINF:-1 tvg-id="tmdbtv-279041-S01E01" tvg-name="Speed and Love S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/tnN7OcVOfIhJATSquVzvMoxLPoR.jpg" group-title="DEMO - VOD - TV SHOWS",Speed and Love S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?73
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?73
 #EXTINF:-1 tvg-id="tmdbtv-279041-S01E02" tvg-name="Speed and Love S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/tnN7OcVOfIhJATSquVzvMoxLPoR.jpg" group-title="DEMO - VOD - TV SHOWS",Speed and Love S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?74
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?74
 #EXTINF:-1 tvg-id="tmdbtv-279041-S01E03" tvg-name="Speed and Love S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/tnN7OcVOfIhJATSquVzvMoxLPoR.jpg" group-title="DEMO - VOD - TV SHOWS",Speed and Love S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?75
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?75
 #EXTINF:-1 tvg-id="tmdbtv-279041-S05E04" tvg-name="Speed and Love S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/tnN7OcVOfIhJATSquVzvMoxLPoR.jpg" group-title="DEMO - VOD - TV SHOWS",Speed and Love S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?76
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?76
 
 #EXTINF:-1 tvg-id="tmdbtv-114868-S01E01" tvg-name="Record of Ragnarok S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/t6GEKms3JgLhC6pXjFHhDvPP65y.jpg" group-title="DEMO - VOD - TV SHOWS",Record of Ragnarok S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?77
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?77
 #EXTINF:-1 tvg-id="tmdbtv-114868-S01E02" tvg-name="Record of Ragnarok S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/t6GEKms3JgLhC6pXjFHhDvPP65y.jpg" group-title="DEMO - VOD - TV SHOWS",Record of Ragnarok S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?78
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?78
 #EXTINF:-1 tvg-id="tmdbtv-114868-S01E03" tvg-name="Record of Ragnarok S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/t6GEKms3JgLhC6pXjFHhDvPP65y.jpg" group-title="DEMO - VOD - TV SHOWS",Record of Ragnarok S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?79
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?79
 #EXTINF:-1 tvg-id="tmdbtv-114868-S05E04" tvg-name="Record of Ragnarok S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/t6GEKms3JgLhC6pXjFHhDvPP65y.jpg" group-title="DEMO - VOD - TV SHOWS",Record of Ragnarok S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?80
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?80
 
 #EXTINF:-1 tvg-id="tmdbtv-79744-S01E01" tvg-name="The Rookie S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" group-title="DEMO - VOD - TV SHOWS",The Rookie S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?81
+https://test-streams.mux.dev/test_001/stream.m3u8?81
 #EXTINF:-1 tvg-id="tmdbtv-79744-S01E02" tvg-name="The Rookie S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" group-title="DEMO - VOD - TV SHOWS",The Rookie S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?82
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?82
 #EXTINF:-1 tvg-id="tmdbtv-79744-S01E03" tvg-name="The Rookie S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" group-title="DEMO - VOD - TV SHOWS",The Rookie S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?83
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?83
 #EXTINF:-1 tvg-id="tmdbtv-79744-S05E04" tvg-name="The Rookie S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg" group-title="DEMO - VOD - TV SHOWS",The Rookie S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?84
+https://test-streams.mux.dev/pts_shift/master.m3u8?84
 
 #EXTINF:-1 tvg-id="tmdbtv-259886-S01E01" tvg-name="The War Between the Land and the Sea S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg" group-title="DEMO - VOD - TV SHOWS",The War Between the Land and the Sea S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?85
+https://test-streams.mux.dev/tos_ismc/main.m3u8?85
 #EXTINF:-1 tvg-id="tmdbtv-259886-S01E02" tvg-name="The War Between the Land and the Sea S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg" group-title="DEMO - VOD - TV SHOWS",The War Between the Land and the Sea S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?86
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?86
 #EXTINF:-1 tvg-id="tmdbtv-259886-S01E03" tvg-name="The War Between the Land and the Sea S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg" group-title="DEMO - VOD - TV SHOWS",The War Between the Land and the Sea S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?87
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?87
 #EXTINF:-1 tvg-id="tmdbtv-259886-S05E04" tvg-name="The War Between the Land and the Sea S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg" group-title="DEMO - VOD - TV SHOWS",The War Between the Land and the Sea S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?88
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?88
 
 #EXTINF:-1 tvg-id="tmdbtv-1399-S01E01" tvg-name="Game of Thrones S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - TV SHOWS",Game of Thrones S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?89
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?89
 #EXTINF:-1 tvg-id="tmdbtv-1399-S01E02" tvg-name="Game of Thrones S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - TV SHOWS",Game of Thrones S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?90
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?90
 #EXTINF:-1 tvg-id="tmdbtv-1399-S01E03" tvg-name="Game of Thrones S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - TV SHOWS",Game of Thrones S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?91
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?91
 #EXTINF:-1 tvg-id="tmdbtv-1399-S05E04" tvg-name="Game of Thrones S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - TV SHOWS",Game of Thrones S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?92
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?92
 
 #EXTINF:-1 tvg-id="tmdbtv-4614-S01E01" tvg-name="NCIS S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" group-title="DEMO - VOD - TV SHOWS",NCIS S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?93
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?93
 #EXTINF:-1 tvg-id="tmdbtv-4614-S01E02" tvg-name="NCIS S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" group-title="DEMO - VOD - TV SHOWS",NCIS S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?94
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?94
 #EXTINF:-1 tvg-id="tmdbtv-4614-S01E03" tvg-name="NCIS S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" group-title="DEMO - VOD - TV SHOWS",NCIS S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?95
+https://test-streams.mux.dev/test_001/stream.m3u8?95
 #EXTINF:-1 tvg-id="tmdbtv-4614-S05E04" tvg-name="NCIS S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" group-title="DEMO - VOD - TV SHOWS",NCIS S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?96
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?96
 
 #EXTINF:-1 tvg-id="tmdbtv-1396-S01E01" tvg-name="Breaking Bad S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - TV SHOWS",Breaking Bad S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?97
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?97
 #EXTINF:-1 tvg-id="tmdbtv-1396-S01E02" tvg-name="Breaking Bad S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - TV SHOWS",Breaking Bad S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?98
+https://test-streams.mux.dev/pts_shift/master.m3u8?98
 #EXTINF:-1 tvg-id="tmdbtv-1396-S01E03" tvg-name="Breaking Bad S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - TV SHOWS",Breaking Bad S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?99
+https://test-streams.mux.dev/tos_ismc/main.m3u8?99
 #EXTINF:-1 tvg-id="tmdbtv-1396-S05E04" tvg-name="Breaking Bad S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - TV SHOWS",Breaking Bad S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?100
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?100
 
 #EXTINF:-1 tvg-id="tmdbtv-225171-S01E01" tvg-name="Pluribus S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" group-title="DEMO - VOD - TV SHOWS",Pluribus S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?101
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?101
 #EXTINF:-1 tvg-id="tmdbtv-225171-S01E02" tvg-name="Pluribus S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" group-title="DEMO - VOD - TV SHOWS",Pluribus S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?102
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?102
 #EXTINF:-1 tvg-id="tmdbtv-225171-S01E03" tvg-name="Pluribus S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" group-title="DEMO - VOD - TV SHOWS",Pluribus S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?103
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?103
 #EXTINF:-1 tvg-id="tmdbtv-225171-S05E04" tvg-name="Pluribus S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg" group-title="DEMO - VOD - TV SHOWS",Pluribus S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?104
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?104
 
 #EXTINF:-1 tvg-id="tmdbtv-46952-S01E01" tvg-name="The Blacklist S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg" group-title="DEMO - VOD - TV SHOWS",The Blacklist S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?105
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?105
 #EXTINF:-1 tvg-id="tmdbtv-46952-S01E02" tvg-name="The Blacklist S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg" group-title="DEMO - VOD - TV SHOWS",The Blacklist S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?106
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?106
 #EXTINF:-1 tvg-id="tmdbtv-46952-S01E03" tvg-name="The Blacklist S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg" group-title="DEMO - VOD - TV SHOWS",The Blacklist S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?107
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?107
 #EXTINF:-1 tvg-id="tmdbtv-46952-S05E04" tvg-name="The Blacklist S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg" group-title="DEMO - VOD - TV SHOWS",The Blacklist S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?108
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?108
 
 #EXTINF:-1 tvg-id="tmdbtv-1405-S01E01" tvg-name="Dexter S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" group-title="DEMO - VOD - TV SHOWS",Dexter S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?109
+https://test-streams.mux.dev/test_001/stream.m3u8?109
 #EXTINF:-1 tvg-id="tmdbtv-1405-S01E02" tvg-name="Dexter S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" group-title="DEMO - VOD - TV SHOWS",Dexter S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?110
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?110
 #EXTINF:-1 tvg-id="tmdbtv-1405-S01E03" tvg-name="Dexter S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" group-title="DEMO - VOD - TV SHOWS",Dexter S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?111
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?111
 #EXTINF:-1 tvg-id="tmdbtv-1405-S05E04" tvg-name="Dexter S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg" group-title="DEMO - VOD - TV SHOWS",Dexter S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?112
+https://test-streams.mux.dev/pts_shift/master.m3u8?112
 
 #EXTINF:-1 tvg-id="tmdbtv-1408-S01E01" tvg-name="House S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="DEMO - VOD - TV SHOWS",House S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?113
+https://test-streams.mux.dev/tos_ismc/main.m3u8?113
 #EXTINF:-1 tvg-id="tmdbtv-1408-S01E02" tvg-name="House S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="DEMO - VOD - TV SHOWS",House S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?114
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?114
 #EXTINF:-1 tvg-id="tmdbtv-1408-S01E03" tvg-name="House S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="DEMO - VOD - TV SHOWS",House S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?115
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?115
 #EXTINF:-1 tvg-id="tmdbtv-1408-S05E04" tvg-name="House S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="DEMO - VOD - TV SHOWS",House S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?116
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?116
 
 #EXTINF:-1 tvg-id="tmdbtv-549-S01E01" tvg-name="Law & Order S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg" group-title="DEMO - VOD - TV SHOWS",Law & Order S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?117
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?117
 #EXTINF:-1 tvg-id="tmdbtv-549-S01E02" tvg-name="Law & Order S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg" group-title="DEMO - VOD - TV SHOWS",Law & Order S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?118
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?118
 #EXTINF:-1 tvg-id="tmdbtv-549-S01E03" tvg-name="Law & Order S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg" group-title="DEMO - VOD - TV SHOWS",Law & Order S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?119
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?119
 #EXTINF:-1 tvg-id="tmdbtv-549-S05E04" tvg-name="Law & Order S05E04" tvg-logo="https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg" group-title="DEMO - VOD - TV SHOWS",Law & Order S05E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?120
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?120
+
 
 
 ############################################################
@@ -276,276 +281,280 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp
 ############################################################
 
 #EXTINF:-1 tvg-id="456" tvg-name="The Simpsons S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="DEMO - VOD - KIDS",The Simpsons S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=121
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=121
 #EXTINF:-1 tvg-id="456" tvg-name="The Simpsons S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="DEMO - VOD - KIDS",The Simpsons S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1212
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=1212
 #EXTINF:-1 tvg-id="456" tvg-name="The Simpsons S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="DEMO - VOD - KIDS",The Simpsons S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1213
+https://test-streams.mux.dev/test_001/stream.m3u8?tag=1213
 #EXTINF:-1 tvg-id="456" tvg-name="The Simpsons S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="DEMO - VOD - KIDS",The Simpsons S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1214
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=1214
 
 #EXTINF:-1 tvg-id="277834" tvg-name="Moana" tvg-logo="https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg" group-title="DEMO - VOD - KIDS",Moana
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=122
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=122
 #EXTINF:-1 tvg-id="335797" tvg-name="Sing" tvg-logo="https://image.tmdb.org/t/p/w500/xviEKU073QAzeFRzWDdW9xDHPbB.jpg" group-title="DEMO - VOD - KIDS",Sing
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=123
+https://test-streams.mux.dev/pts_shift/master.m3u8?tag=123
 #EXTINF:-1 tvg-id="136799" tvg-name="Trolls" tvg-logo="https://image.tmdb.org/t/p/w500/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg" group-title="DEMO - VOD - KIDS",Trolls
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=124
+https://test-streams.mux.dev/tos_ismc/main.m3u8?tag=124
 #EXTINF:-1 tvg-id="1241982" tvg-name="Moana 2" tvg-logo="https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="DEMO - VOD - KIDS",Moana 2
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=125
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?tag=125
 #EXTINF:-1 tvg-id="260514" tvg-name="Cars 3" tvg-logo="https://image.tmdb.org/t/p/w500/fyy1nDC8wm553FCiBDojkJmKLCs.jpg" group-title="DEMO - VOD - KIDS",Cars 3
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=126
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=126
 #EXTINF:-1 tvg-id="49013" tvg-name="Cars 2" tvg-logo="https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg" group-title="DEMO - VOD - KIDS",Cars 2
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=127
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=127
 #EXTINF:-1 tvg-id="127380" tvg-name="Finding Dory" tvg-logo="https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg" group-title="DEMO - VOD - KIDS",Finding Dory
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=128
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?tag=128
 #EXTINF:-1 tvg-id="354912" tvg-name="Coco" tvg-logo="https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg" group-title="DEMO - VOD - KIDS",Coco
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=129
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?tag=129
 #EXTINF:-1 tvg-id="137106" tvg-name="The Lego Movie" tvg-logo="https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg" group-title="DEMO - VOD - KIDS",The Lego Movie
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=130
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?tag=130
 #EXTINF:-1 tvg-id="109445" tvg-name="Frozen" tvg-logo="https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg" group-title="DEMO - VOD - KIDS",Frozen
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=131
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?tag=131
 #EXTINF:-1 tvg-id="330457" tvg-name="Frozen II" tvg-logo="https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="DEMO - VOD - KIDS",Frozen II
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=132
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=132
 #EXTINF:-1 tvg-id="326359" tvg-name="Frozen Fever" tvg-logo="https://image.tmdb.org/t/p/w500/dJ9sxSn95KoWwErBrEILD3Lucg6.jpg" group-title="DEMO - VOD - KIDS",Frozen Fever
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=133
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=133
 #EXTINF:-1 tvg-id="150540" tvg-name="Inside Out" tvg-logo="https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg" group-title="DEMO - VOD - KIDS",Inside Out
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=134
+https://test-streams.mux.dev/test_001/stream.m3u8?tag=134
 #EXTINF:-1 tvg-id="438695" tvg-name="Sing 2" tvg-logo="https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="DEMO - VOD - KIDS",Sing 2
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=135
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=135
 #EXTINF:-1 tvg-id="568124" tvg-name="Encanto" tvg-logo="https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="DEMO - VOD - KIDS",Encanto
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=136
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=136
 #EXTINF:-1 tvg-id="862" tvg-name="Toy Story" tvg-logo="https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="DEMO - VOD - KIDS",Toy Story
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=137
+https://test-streams.mux.dev/pts_shift/master.m3u8?tag=137
 #EXTINF:-1 tvg-id="863" tvg-name="Toy Story 2" tvg-logo="https://image.tmdb.org/t/p/w500/hxLVh4inApNMzy3KHWelzkycivj.jpg" group-title="DEMO - VOD - KIDS",Toy Story 2
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=138
+https://test-streams.mux.dev/tos_ismc/main.m3u8?tag=138
 #EXTINF:-1 tvg-id="10193" tvg-name="Toy Story 3" tvg-logo="https://image.tmdb.org/t/p/w500/wG7nvy56wiY85ZqjEEuMU7rYRVP.jpg" group-title="DEMO - VOD - KIDS",Toy Story 3
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=139
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?tag=139
 #EXTINF:-1 tvg-id="8587" tvg-name="The Lion King" tvg-logo="https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg" group-title="DEMO - VOD - KIDS",The Lion King
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=140
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=140
 
 #EXTINF:-1 tvg-id="12225" tvg-name="Peppa Pig S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg" group-title="DEMO - VOD - KIDS",Peppa Pig S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=141
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=141
 #EXTINF:-1 tvg-id="12225" tvg-name="Peppa Pig S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg" group-title="DEMO - VOD - KIDS",Peppa Pig S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1412
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?tag=1412
 #EXTINF:-1 tvg-id="12225" tvg-name="Peppa Pig S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg" group-title="DEMO - VOD - KIDS",Peppa Pig S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1413
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?tag=1413
 #EXTINF:-1 tvg-id="12225" tvg-name="Peppa Pig S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg" group-title="DEMO - VOD - KIDS",Peppa Pig S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1414
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?tag=1414
 
 #EXTINF:-1 tvg-id="2437" tvg-name="Pocoyo S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="DEMO - VOD - KIDS",Pocoyo S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=142
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?tag=142
 #EXTINF:-1 tvg-id="2437" tvg-name="Pocoyo S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="DEMO - VOD - KIDS",Pocoyo S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1422
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=1422
 #EXTINF:-1 tvg-id="2437" tvg-name="Pocoyo S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="DEMO - VOD - KIDS",Pocoyo S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1423
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=1423
 #EXTINF:-1 tvg-id="2437" tvg-name="Pocoyo S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="DEMO - VOD - KIDS",Pocoyo S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1424
+https://test-streams.mux.dev/test_001/stream.m3u8?tag=1424
 
 #EXTINF:-1 tvg-id="3934" tvg-name="Mickey Mouse Clubhouse S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg" group-title="DEMO - VOD - KIDS",Mickey Mouse Clubhouse S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=143
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=143
 #EXTINF:-1 tvg-id="3934" tvg-name="Mickey Mouse Clubhouse S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg" group-title="DEMO - VOD - KIDS",Mickey Mouse Clubhouse S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1432
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=1432
 #EXTINF:-1 tvg-id="3934" tvg-name="Mickey Mouse Clubhouse S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg" group-title="DEMO - VOD - KIDS",Mickey Mouse Clubhouse S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1433
+https://test-streams.mux.dev/pts_shift/master.m3u8?tag=1433
 #EXTINF:-1 tvg-id="3934" tvg-name="Mickey Mouse Clubhouse S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg" group-title="DEMO - VOD - KIDS",Mickey Mouse Clubhouse S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1434
+https://test-streams.mux.dev/tos_ismc/main.m3u8?tag=1434
 
 #EXTINF:-1 tvg-id="65417" tvg-name="PJ Masks S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg" group-title="DEMO - VOD - KIDS",PJ Masks S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=144
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?tag=144
 #EXTINF:-1 tvg-id="65417" tvg-name="PJ Masks S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg" group-title="DEMO - VOD - KIDS",PJ Masks S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1442
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1442
 #EXTINF:-1 tvg-id="65417" tvg-name="PJ Masks S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg" group-title="DEMO - VOD - KIDS",PJ Masks S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1443
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=1443
 #EXTINF:-1 tvg-id="65417" tvg-name="PJ Masks S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/sl4flhzM3uJAxfgQ9ibfEGbmn5I.jpg" group-title="DEMO - VOD - KIDS",PJ Masks S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1444
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?tag=1444
 
 #EXTINF:-1 tvg-id="57532" tvg-name="PAW Patrol S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="DEMO - VOD - KIDS",PAW Patrol S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=145
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?tag=145
 #EXTINF:-1 tvg-id="57532" tvg-name="PAW Patrol S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="DEMO - VOD - KIDS",PAW Patrol S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1452
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?tag=1452
 #EXTINF:-1 tvg-id="57532" tvg-name="PAW Patrol S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="DEMO - VOD - KIDS",PAW Patrol S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1453
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?tag=1453
 #EXTINF:-1 tvg-id="57532" tvg-name="PAW Patrol S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/vN9BE385YKPgumoyrOd8Z8yh6Nn.jpg" group-title="DEMO - VOD - KIDS",PAW Patrol S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1454
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=1454
 
 #EXTINF:-1 tvg-id="127635" tvg-name="Spidey and His Amazing Friends S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg" group-title="DEMO - VOD - KIDS",Spidey and His Amazing Friends S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=146
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=146
 #EXTINF:-1 tvg-id="127635" tvg-name="Spidey and His Amazing Friends S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg" group-title="DEMO - VOD - KIDS",Spidey and His Amazing Friends S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1462
+https://test-streams.mux.dev/test_001/stream.m3u8?tag=1462
 #EXTINF:-1 tvg-id="127635" tvg-name="Spidey and His Amazing Friends S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg" group-title="DEMO - VOD - KIDS",Spidey and His Amazing Friends S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1463
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=1463
 #EXTINF:-1 tvg-id="127635" tvg-name="Spidey and His Amazing Friends S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg" group-title="DEMO - VOD - KIDS",Spidey and His Amazing Friends S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=1464
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=1464
 
 #EXTINF:-1 tvg-id="118" tvg-name="Charlie and the Chocolate Factory" tvg-logo="https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg" group-title="DEMO - VOD - KIDS",Charlie and the Chocolate Factory
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=147
+https://test-streams.mux.dev/pts_shift/master.m3u8?tag=147
 #EXTINF:-1 tvg-id="1280282" tvg-name="Gabby's Dollhouse: The Movie" tvg-logo="https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg" group-title="DEMO - VOD - KIDS",Gabby's Dollhouse: The Movie
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=148
+https://test-streams.mux.dev/tos_ismc/main.m3u8?tag=148
 #EXTINF:-1 tvg-id="1087192" tvg-name="How to Train Your Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg" group-title="DEMO - VOD - KIDS",How to Train Your Dragon
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=149
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?tag=149
 #EXTINF:-1 tvg-id="803796" tvg-name="KPop Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg" group-title="DEMO - VOD - KIDS",KPop Demon Hunters
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=150
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=150
 #EXTINF:-1 tvg-id="1022787" tvg-name="Elio" tvg-logo="https://image.tmdb.org/t/p/w500/7z8jDiTZZco9moIKpTUImFtTy7o.jpg" group-title="DEMO - VOD - KIDS",Elio
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=151
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=151
+
+
 
 ############################################################
 # VOD - EXTRA MOVIES (demo)
 ############################################################
 #EXTINF:-1 tvg-id="24428" tvg-name="The Avengers" tvg-logo="https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="DEMO - VOD - EXTRA MOVIES",The Avengers
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=152
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?tag=152
 #EXTINF:-1 tvg-id="102899" tvg-name="Ant-Man" tvg-logo="https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Ant-Man
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=153
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?tag=153
 #EXTINF:-1 tvg-id="315635" tvg-name="Spider-Man: Homecoming" tvg-logo="https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Spider-Man: Homecoming
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=154
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?tag=154
 #EXTINF:-1 tvg-id="19995" tvg-name="Avatar" tvg-logo="https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Avatar
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=155
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?tag=155
 #EXTINF:-1 tvg-id="68718" tvg-name="Django Unchained" tvg-logo="https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Django Unchained
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=156
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=156
 #EXTINF:-1 tvg-id="68721" tvg-name="Iron Man 3" tvg-logo="https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Iron Man 3
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=157
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=157
 #EXTINF:-1 tvg-id="293660" tvg-name="Deadpool" tvg-logo="https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Deadpool
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=158
+https://test-streams.mux.dev/test_001/stream.m3u8?tag=158
 #EXTINF:-1 tvg-id="602" tvg-name="Independence Day" tvg-logo="https://image.tmdb.org/t/p/w500/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Independence Day
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=159
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=159
 #EXTINF:-1 tvg-id="607" tvg-name="Men in Black" tvg-logo="https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Men in Black
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=160
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=160
 #EXTINF:-1 tvg-id="76338" tvg-name="Thor: The Dark World" tvg-logo="https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Thor: The Dark World
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=161
+https://test-streams.mux.dev/pts_shift/master.m3u8?tag=161
 #EXTINF:-1 tvg-id="181812" tvg-name="Star Wars: The Rise of Skywalker" tvg-logo="https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Star Wars: The Rise of Skywalker
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=162
+https://test-streams.mux.dev/tos_ismc/main.m3u8?tag=162
 #EXTINF:-1 tvg-id="140607" tvg-name="Star Wars: The Force Awakens" tvg-logo="https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Star Wars: The Force Awakens
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=163
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?tag=163
 #EXTINF:-1 tvg-id="181808" tvg-name="Star Wars: The Last Jedi" tvg-logo="https://image.tmdb.org/t/p/w500/ySaaKHOLAQU5HoZqWmzDIj1VvZ1.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Star Wars: The Last Jedi
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=164
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=164
 #EXTINF:-1 tvg-id="348350" tvg-name="Solo: A Star Wars Story" tvg-logo="https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Solo: A Star Wars Story
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=165
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=165
 #EXTINF:-1 tvg-id="120" tvg-name="The Lord of the Rings: The Fellowship of the Ring" tvg-logo="https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg" group-title="DEMO - VOD - EXTRA MOVIES",The Lord of the Rings: The Fellowship of the Ring
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=166
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?tag=166
 #EXTINF:-1 tvg-id="121" tvg-name="The Lord of the Rings: The Two Towers" tvg-logo="https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="DEMO - VOD - EXTRA MOVIES",The Lord of the Rings: The Two Towers
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=167
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?tag=167
 #EXTINF:-1 tvg-id="122" tvg-name="The Lord of the Rings: The Return of the King" tvg-logo="https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg" group-title="DEMO - VOD - EXTRA MOVIES",The Lord of the Rings: The Return of the King
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=168
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?tag=168
 #EXTINF:-1 tvg-id="550" tvg-name="Fight Club" tvg-logo="https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg" group-title="DEMO - VOD - EXTRA MOVIES",Fight Club
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=169
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?tag=169
+
 
 
 ############################################################
 # VOD - EXTRA SHOWS (demo)
 ############################################################
+
 #EXTINF:-1 tvg-id="1396" tvg-name="Breaking Bad S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Breaking Bad S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=170
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=170
 #EXTINF:-1 tvg-id="1396" tvg-name="Breaking Bad S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Breaking Bad S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=171
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=171
 #EXTINF:-1 tvg-id="1396" tvg-name="Breaking Bad S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Breaking Bad S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=172
+https://test-streams.mux.dev/test_001/stream.m3u8?tag=172
 #EXTINF:-1 tvg-id="1396" tvg-name="Breaking Bad S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Breaking Bad S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=173
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=173
 
 #EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Game of Thrones S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=174
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=174
 #EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Game of Thrones S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=175
+https://test-streams.mux.dev/pts_shift/master.m3u8?tag=175
 #EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Game of Thrones S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=176
+https://test-streams.mux.dev/tos_ismc/main.m3u8?tag=176
 #EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Game of Thrones S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=177
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?tag=177
 
 #EXTINF:-1 tvg-id="60059" tvg-name="Better Call Saul S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Better Call Saul S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=178
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=178
 #EXTINF:-1 tvg-id="60059" tvg-name="Better Call Saul S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Better Call Saul S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=179
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=179
 #EXTINF:-1 tvg-id="60059" tvg-name="Better Call Saul S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Better Call Saul S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=180
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?tag=180
 #EXTINF:-1 tvg-id="60059" tvg-name="Better Call Saul S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Better Call Saul S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=181
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?tag=181
 
 #EXTINF:-1 tvg-id="70523" tvg-name="Dark S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Dark S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=182
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?tag=182
 #EXTINF:-1 tvg-id="70523" tvg-name="Dark S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Dark S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=183
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?tag=183
 #EXTINF:-1 tvg-id="70523" tvg-name="Dark S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Dark S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=184
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=184
 #EXTINF:-1 tvg-id="70523" tvg-name="Dark S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Dark S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=185
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=185
 
 #EXTINF:-1 tvg-id="60574" tvg-name="Peaky Blinders S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Peaky Blinders S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=186
+https://test-streams.mux.dev/test_001/stream.m3u8?tag=186
 #EXTINF:-1 tvg-id="60574" tvg-name="Peaky Blinders S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Peaky Blinders S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=187
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=187
 #EXTINF:-1 tvg-id="60574" tvg-name="Peaky Blinders S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Peaky Blinders S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=188
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=188
 #EXTINF:-1 tvg-id="60574" tvg-name="Peaky Blinders S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Peaky Blinders S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=189
+https://test-streams.mux.dev/pts_shift/master.m3u8?tag=189
 
 #EXTINF:-1 tvg-id="44217" tvg-name="Vikings S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Vikings S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=190
+https://test-streams.mux.dev/tos_ismc/main.m3u8?tag=190
 #EXTINF:-1 tvg-id="44217" tvg-name="Vikings S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Vikings S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=191
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?tag=191
 #EXTINF:-1 tvg-id="44217" tvg-name="Vikings S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Vikings S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=192
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=192
 #EXTINF:-1 tvg-id="44217" tvg-name="Vikings S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Vikings S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=193
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=193
 
 #EXTINF:-1 tvg-id="106379" tvg-name="Fallout S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Fallout S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=194
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?tag=194
 #EXTINF:-1 tvg-id="106379" tvg-name="Fallout S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Fallout S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=195
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?tag=195
 #EXTINF:-1 tvg-id="106379" tvg-name="Fallout S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Fallout S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=196
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?tag=196
 #EXTINF:-1 tvg-id="106379" tvg-name="Fallout S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Fallout S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=197
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?tag=197
 
 #EXTINF:-1 tvg-id="126308" tvg-name="Shōgun S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Shōgun S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=198
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=198
 #EXTINF:-1 tvg-id="126308" tvg-name="Shōgun S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Shōgun S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=199
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=199
 #EXTINF:-1 tvg-id="126308" tvg-name="Shōgun S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Shōgun S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=200
+https://test-streams.mux.dev/test_001/stream.m3u8?tag=200
 #EXTINF:-1 tvg-id="126308" tvg-name="Shōgun S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Shōgun S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=201
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=201
 
 #EXTINF:-1 tvg-id="100088" tvg-name="The Last of Us S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg" group-title="DEMO - VOD - EXTRA SHOWS",The Last of Us S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=202
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=202
 #EXTINF:-1 tvg-id="100088" tvg-name="The Last of Us S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg" group-title="DEMO - VOD - EXTRA SHOWS",The Last of Us S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=203
+https://test-streams.mux.dev/pts_shift/master.m3u8?tag=203
 #EXTINF:-1 tvg-id="100088" tvg-name="The Last of Us S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg" group-title="DEMO - VOD - EXTRA SHOWS",The Last of Us S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=204
+https://test-streams.mux.dev/tos_ismc/main.m3u8?tag=204
 #EXTINF:-1 tvg-id="100088" tvg-name="The Last of Us S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg" group-title="DEMO - VOD - EXTRA SHOWS",The Last of Us S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=205
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?tag=205
 
 #EXTINF:-1 tvg-id="83867" tvg-name="Andor S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Andor S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=206
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=206
 #EXTINF:-1 tvg-id="83867" tvg-name="Andor S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Andor S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=207
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=207
 #EXTINF:-1 tvg-id="83867" tvg-name="Andor S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Andor S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=208
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?tag=208
 #EXTINF:-1 tvg-id="83867" tvg-name="Andor S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Andor S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=209
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4?tag=209
 
 #EXTINF:-1 tvg-id="92830" tvg-name="Obi-Wan Kenobi S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Obi-Wan Kenobi S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=210
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?tag=210
 #EXTINF:-1 tvg-id="92830" tvg-name="Obi-Wan Kenobi S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Obi-Wan Kenobi S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=211
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?tag=211
 #EXTINF:-1 tvg-id="92830" tvg-name="Obi-Wan Kenobi S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Obi-Wan Kenobi S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=212
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=212
 #EXTINF:-1 tvg-id="92830" tvg-name="Obi-Wan Kenobi S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Obi-Wan Kenobi S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=213
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=213
 
 #EXTINF:-1 tvg-id="196322" tvg-name="Dark Matter S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Dark Matter S01E01
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=214
+https://test-streams.mux.dev/test_001/stream.m3u8?tag=214
 #EXTINF:-1 tvg-id="196322" tvg-name="Dark Matter S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Dark Matter S01E02
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=215
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=215
 #EXTINF:-1 tvg-id="196322" tvg-name="Dark Matter S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Dark Matter S01E03
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=216
+https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=216
 #EXTINF:-1 tvg-id="196322" tvg-name="Dark Matter S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Dark Matter S01E04
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=217
-
+https://test-streams.mux.dev/pts_shift/master.m3u8?tag=217
 
 
 
 ############################################################
 # CHANNELS - LIVE US (demo)
 ############################################################
+
 #EXTINF:-1 tvg-id="Q4BRJDO5EKDOCKSIJZX4WSORCVZXHSES" tvg-name="ABC" group-title="DEMO - HLS LIVE US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",ABC
 https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?tag=1
 #EXTINF:-1 tvg-id="UXRPFXA43CNST6P6VDSA23OFGWBPFYZI" tvg-name="AccuWeather Now" group-title="DEMO - HLS LIVE US" tvg-logo="https://i.imgur.com/M8wbVYK.png",AccuWeather Now
