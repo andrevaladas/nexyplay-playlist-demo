@@ -18,6 +18,10 @@ https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?5
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?6
 #EXTINF:-1 tvg-id="tmdb-155" tvg-name="The Dark Knight" tvg-logo="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="DEMO - VOD - TOP RATED",The Dark Knight
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?7
+#EXTINF:-1 tvg-id="tmdb-155" tvg-name="The Dark Knight [HD]" tvg-logo="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="DEMO - VOD - TOP RATED [HD]",The Dark Knight
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?7hd
+#EXTINF:-1 tvg-id="tmdb-155" tvg-name="The Dark Knight [4K]" tvg-logo="https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="DEMO - VOD - TOP RATED [4K]",The Dark Knight
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?74k
 #EXTINF:-1 tvg-id="tmdb-19404" tvg-name="Dilwale Dulhania Le Jayenge" tvg-logo="https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg" group-title="DEMO - VOD - TOP RATED",Dilwale Dulhania Le Jayenge
 https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?8
 #EXTINF:-1 tvg-id="tmdb-497" tvg-name="The Green Mile" tvg-logo="https://image.tmdb.org/t/p/w500/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg" group-title="DEMO - VOD - TOP RATED",The Green Mile
@@ -441,23 +445,6 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_
 # VOD - EXTRA SHOWS (demo)
 ############################################################
 
-#EXTINF:-1 tvg-id="1396" tvg-name="Breaking Bad S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Breaking Bad S01E01
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?tag=170
-#EXTINF:-1 tvg-id="1396" tvg-name="Breaking Bad S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Breaking Bad S01E02
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8?tag=171
-#EXTINF:-1 tvg-id="1396" tvg-name="Breaking Bad S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Breaking Bad S01E03
-https://test-streams.mux.dev/test_001/stream.m3u8?tag=172
-#EXTINF:-1 tvg-id="1396" tvg-name="Breaking Bad S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Breaking Bad S01E04
-https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8?tag=173
-
-#EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Game of Thrones S01E01
-https://test-streams.mux.dev/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8?tag=174
-#EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Game of Thrones S01E02
-https://test-streams.mux.dev/pts_shift/master.m3u8?tag=175
-#EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones S01E03" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Game of Thrones S01E03
-https://test-streams.mux.dev/tos_ismc/main.m3u8?tag=176
-#EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones S01E04" tvg-logo="https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Game of Thrones S01E04
-https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?tag=177
 
 #EXTINF:-1 tvg-id="60059" tvg-name="Better Call Saul S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg" group-title="DEMO - VOD - EXTRA SHOWS",Better Call Saul S01E01
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=178
