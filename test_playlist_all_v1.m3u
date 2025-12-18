@@ -71,8 +71,6 @@ https://test-streams.mux.dev/pts_shift/master.m3u8?27
 https://test-streams.mux.dev/tos_ismc/main.m3u8?28
 #EXTINF:-1 tvg-id="tmdb-1228246" tvg-name="Five Nights at Freddy's 2" tvg-logo="https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="DEMO - VOD - MOVIES",Five Nights at Freddy's 2
 https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd?29
-#EXTINF:-1 tvg-id="tmdb-1218925" tvg-name="Chainsaw Man - The Movie: Reze Arc" tvg-logo="https://image.tmdb.org/t/p/w500/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg" group-title="DEMO - VOD - MOVIES",Chainsaw Man - The Movie: Reze Arc
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?30
 #EXTINF:-1 tvg-id="tmdb-1180831" tvg-name="Troll 2" tvg-logo="https://image.tmdb.org/t/p/w500/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="DEMO - VOD - MOVIES",Troll 2
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?31
 #EXTINF:-1 tvg-id="tmdb-83533" tvg-name="Avatar: Fire and Ash" tvg-logo="https://image.tmdb.org/t/p/w500/gDVgC9jd917NdAcqBdRRDUYi4TqM.jpg" group-title="DEMO - VOD - MOVIES",Avatar: Fire and Ash
