@@ -711,3 +711,21 @@ https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?84
 #EXTINF:-1 tvg-id="YYQW2VUZO2RD2EH6GFVWIDJ3WOQNLZP3" tvg-name="Yes Network" group-title="DEMO - HLS LIVE US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/330px-YES_Network_logo.svg.png",Yes Network
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8?85
 
+
+############################################################
+# TEST FULL CYCLE - adds, new episodes, channels backups
+############################################################
+#EXTINF:-1 tvg-id="tmdb-27205" tvg-name="Inception" tvg-logo="https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg" group-title="DEMO - MOVIES",Inception
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?tag=401
+#EXTINF:-1 tvg-id="tmdb-27205" tvg-name="Inception [Server B]" tvg-logo="https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg" group-title="DEMO - MOVIES - Server B",Inception
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=402
+#EXTINF:-1 tvg-id="tmdb-60735" tvg-name="The Flash S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/lflq3JcbQG7pXeZq4fUuEVE4tE.jpg" group-title="DEMO - TV - THE FLASH",The Flash S01E01
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps_1024x576_2500k.mp4?tag=403
+#EXTINF:-1 tvg-id="tmdb-60735" tvg-name="The Flash S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/lflq3JcbQG7pXeZq4fUuEVE4tE.jpg" group-title="DEMO - TV - THE FLASH",The Flash S01E02
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4?tag=404
+#EXTINF:-1 tvg-id="tmdb-60735" tvg-name="The Flash S02E01" tvg-logo="https://image.tmdb.org/t/p/w500/lflq3JcbQG7pXeZq4fUuEVE4tE.jpg" group-title="DEMO - TV - THE FLASH",The Flash S02E01
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4?tag=405
+#EXTINF:-1 tvg-id="news-02" tvg-name="City News" tvg-logo="https://dummyimage.com/200x200/333/fff.png&text=NEWS" group-title="DEMO - CHANNELS",City News
+http://example.com/live/city-news.m3u8
+#EXTINF:-1 tvg-id="news-02" tvg-name="City News [Backup]" tvg-logo="https://dummyimage.com/200x200/333/fff.png&text=NEWS" group-title="DEMO - CHANNELS - Backup",City News
+http://example.com/live/city-news-backup.m3u8
