@@ -557,10 +557,6 @@ https://demo-nimble.softvelum.com/video_demo/stream/playlist.m3u8?6
 
 #EXTINF:-1 tvg-id="QBVQXBUGZZVINLP5CHPIJ3PLV7LMXECF" tvg-name="BabyFirst" group-title="DEMO - LIVE US - 02" tvg-logo="https://i.imgur.com/WxLHBwu.png",BabyFirst
 https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?7
-#EXTINF:-1 tvg-id="SCX3LVLP55AIDNU2BCA4L6RCLVT3YQQ5" tvg-name="BBC America" group-title="DEMO - LIVE US - 02" tvg-logo="https://i.imgur.com/pTiiPz0.png",BBC America
-https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?8
-#EXTINF:-1 tvg-id="3YKN4KZHZCIDK6FYACS3UGKCNYELGRLM" tvg-name="beIN Sports USA" group-title="DEMO - LIVE US - 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png",beIN Sports USA
-https://demo-nimble.softvelum.com/video_demo/stream/playlist.m3u8?9
 #EXTINF:-1 tvg-id="EOUCUZTJVHWEINHCW5OLUMANOR7TLWSX" tvg-name="BET East" group-title="DEMO - LIVE US - 02" tvg-logo="https://i.imgur.com/copIbc9.png",BET East
 https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?10
 #EXTINF:-1 tvg-id="KCFWS7IC2YMEMOTY36KR5A6H7FMQ5YTW" tvg-name="Better Life TV" group-title="DEMO - LIVE US - 02" tvg-logo="https://i.imgur.com/OWI7Y0l.png",Better Life TV
@@ -574,8 +570,6 @@ https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?13
 https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?14
 #EXTINF:-1 tvg-id="OLENALY27HEHR7QKKWOIAXTYDJMRHMK4" tvg-name="CBN News Channel" group-title="DEMO - LIVE US - 03" tvg-logo="https://i.imgur.com/9f9YMsA.png",CBN News Channel
 https://demo-nimble.softvelum.com/video_demo/stream/playlist.m3u8?15
-#EXTINF:-1 tvg-id="F65ON27LNWNFNX5P263CGSIE3HWCLJ56" tvg-name="CBS Sports Network USA" group-title="DEMO - LIVE US - 03" tvg-logo="https://i.imgur.com/A8CnA8g.png",CBS Sports Network USA
-https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?16
 
 #EXTINF:-1 tvg-id="QI27VWZGMHHRGXLCX3SOPHXUMVWLCBAK" tvg-name="Charge!" group-title="DEMO - LIVE US - 04" tvg-logo="https://i.imgur.com/1rxmu2u.png",Charge!
 https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?17
@@ -599,10 +593,6 @@ https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?31
 #EXTINF:-1 tvg-id="D2TFTKEPHYI4XTWNDVSX62DSVAWD4G6C" tvg-name="Fox" group-title="DEMO - LIVE US - 05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",Fox
 https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?32
 
-#EXTINF:-1 tvg-id="4IIYED4SCKMXGEWXEQ4OWJLWC6E75L6L" tvg-name="FOX Business" group-title="DEMO - LIVE US - 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",FOX Business
-https://demo-nimble.softvelum.com/video_demo/stream/playlist.m3u8?33
-#EXTINF:-1 tvg-id="5XLDBGCQ4M2XDCIPPSJ7CQRWZXL57QRV" tvg-name="Fox Sports 2" group-title="DEMO - LIVE US - 06" tvg-logo="https://i.imgur.com/LHtxKI8.png",Fox Sports 2
-https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?35
 #EXTINF:-1 tvg-id="BRIMTOYDV4GVMMHXOCMDFGBPVNCOVPTV" tvg-name="Freeform" group-title="DEMO - LIVE US - 06" tvg-logo="https://i.imgur.com/BGAGeIf.png",Freeform
 https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?36
 #EXTINF:-1 tvg-id="NU724JM4J7MBGYSXFVLPT5J42XZBZBIX" tvg-name="Fuse East" group-title="DEMO - LIVE US - 06" tvg-logo="https://i.postimg.cc/gkhMThGb/fuse.png",Fuse East
@@ -625,17 +615,11 @@ https://demo-nimble.softvelum.com/video_demo/stream/playlist.m3u8?44
 https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?45
 #EXTINF:-1 tvg-id="3RLW7UAQH2QCEW3YDV3XELIMZ74TQT6O" tvg-name="Motor Trend" group-title="DEMO - LIVE US - 08" tvg-logo="https://i.imgur.com/hKDccCL.png",Motor Trend
 https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?48
-#EXTINF:-1 tvg-id="M3XKYU27A2KHURY2T5FKXDBJ2VWXN2QF" tvg-name="MSNBC" group-title="DEMO - LIVE US - 08" tvg-logo="https://i.postimg.cc/KzqhNLQX/msnbc.png",MSNBC
-https://demo-nimble.softvelum.com/video_demo/stream/playlist.m3u8?49
 #EXTINF:-1 tvg-id="2AOTEPGYCIVP4V7XSA4LWQIB63RWEXS5" tvg-name="NEW K POP" group-title="DEMO - LIVE US - 08" tvg-logo="https://i.imgur.com/B7ILXMc.png",NEW K POP
 https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?57
 #EXTINF:-1 tvg-id="W77VDE4CVY5DY3LHGZLX2SQH4OZ4Y7Z6" tvg-name="PBS Kids" group-title="DEMO - LIVE US - 08" tvg-logo="https://i.imgur.com/q4cUQKW.png",PBS Kids
 https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?64
 
-#EXTINF:-1 tvg-id="LTCWUJ5LZ32D5MBC2GUPHMODRJEA566K" tvg-name="Pluto TV History" group-title="DEMO - LIVE US - 09" tvg-logo="https://i.imgur.com/XkQD5kM.png",Pluto TV History
-https://demo-nimble.softvelum.com/video_demo/stream/playlist.m3u8?65
-#EXTINF:-1 tvg-id="Z236PBCMIPQM5ITFWJ2FX4JBEJW2AID2" tvg-name="Pluto TV MTV Classic" group-title="DEMO - LIVE US - 09" tvg-logo="https://i.imgur.com/NPavpts.png",Pluto TV MTV Classic
-https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?66
 #EXTINF:-1 tvg-id="DC753V6FP7B774F7RX2HHN2DT5M7L4NP" tvg-name="Popstar! TV" group-title="DEMO - LIVE US - 09" tvg-logo="https://i.imgur.com/d4xEiXX.png",Popstar! TV
 https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?67
 #EXTINF:-1 tvg-id="BTLO7QPLQUSBSKSL4DQ5TBOL6PQHVPNW" tvg-name="Revolt" group-title="DEMO - LIVE US - 09" tvg-logo="https://i.postimg.cc/4xnH4Dx6/revolt.png",Revolt
@@ -665,8 +649,6 @@ https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?78
 #EXTINF:-1 tvg-id="5DWFXDQBP5W4JDAG5Y7TPA22PBLGCS6Y" tvg-name="TV One" group-title="DEMO - LIVE US - 11" tvg-logo="https://i.imgur.com/tthm8Q5.png",TV One
 https://demo-nimble.softvelum.com/live/bbb-360p/playlist.m3u8?79
 
-#EXTINF:-1 tvg-id="JZP6VWRMCIETYDVRHVWQDCW4SAW2HHEA" tvg-name="USA Network" group-title="DEMO - LIVE US - 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",USA Network
-https://demo-nimble.softvelum.com/video_demo/stream/playlist.m3u8?80
 #EXTINF:-1 tvg-id="YQFWCBK2RI5BGG5V2JHZVHX6PEJSTYGW" tvg-name="Vevo Pop" group-title="DEMO - LIVE US - 12" tvg-logo="https://i.imgur.com/dZHktKR.png",Vevo Pop
 https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd?81
 #EXTINF:-1 tvg-id="N6VNQAHCEXWYHOAZM367VL56IIVH75XR" tvg-name="Vevo Retro Rock" group-title="DEMO - LIVE US - 12" tvg-logo="https://i.imgur.com/H1Aap4E.png",Vevo Retro Rock
